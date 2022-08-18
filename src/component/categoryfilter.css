@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+}
+
+.container{
+  height: 100%;
+  width: 100%;
+}
+
+.headingDiv{
+  margin: 10px 0;
+}
+.headingDiv h1{
+  font-weight: 500;
+  color: #222;
+  text-align: center;
+}
+
+
+
+
+
+
+
